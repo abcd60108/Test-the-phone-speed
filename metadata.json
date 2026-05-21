@@ -1,0 +1,6 @@
+{
+  "name": "手機速度測試",
+  "description": "一鍵評估手機性能、CPU、記憶體、硬碟讀寫、圖形FPS渲染以及網路速度測試的極致性能跑分與網速測試程式。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
